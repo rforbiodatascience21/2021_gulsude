@@ -1,0 +1,46 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+project_root
+
+  |
+
+  + data
+
+    |
+
+    + _raw
+
+  |
+
+  + doc
+
+  |
+
+  + R
+
+    + 00_doit.R
+
+    + 01_load.R
+
+    + 02_clean.R
+
+    + 03_augment.R
+
+    + 04_analysis_i.R
+
+    + 99_project_functions.R
+
+  |
+
+  + results
+  
+  
